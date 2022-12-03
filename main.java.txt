@@ -4,4 +4,10 @@ dsfkjsdjkf
 
 sdfd
 
+git status
 
+git add <filename> <filename> ....
+
+git commit -m ".......message...."
+
+git push origin master
